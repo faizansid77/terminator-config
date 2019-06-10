@@ -4,11 +4,8 @@
 [keybindings]
   close_term = <Super>w
   close_window = <Super>q
-<<<<<<< HEAD
   page_down = <Shift>Page_Down
   page_up = <Shift>Page_Up
-=======
->>>>>>> 5da925c1dbf51e44a64ef2ea9362609c3df976e0
   split_horiz = <Super>h
   split_vert = <Super>v
 [layouts]
